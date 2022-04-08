@@ -7,18 +7,18 @@
                         <div class="page-wrapper">
                             <div class="row">
                                 <div class="col-lg-4">
-                                    <h4>Who we are</h4>
-                                    <p>Forest Time is a personal blog for handcrafted, cameramade photography content, fashion styles from independent creatives around the world.</p>
+                                    <h4>Who we are ?</h4>
+                                    <p>DevNation is a personal blog for handcrafted, cameramade photography content, fashion styles from independent creatives around the world.</p>
                                 </div>
 
                                 <div class="col-lg-4">
-                                    <h4>How we help?</h4>
-                                    <p>Etiam vulputate urna id libero auctor maximus. Nulla dignissim ligula diam, in sollicitudin ligula congue quis turpis dui urna nibhs. </p>
+                                    <h4>How we help ?</h4>
+                                    <p>We Help Coders and developers to share their ideas with like minded people with a click of a button. </p>
                                 </div>
 
                                 <div class="col-lg-4">
-                                    <h4>Pre-Sale Question</h4>
-                                    <p>Fusce dapibus nunc quis quam tempor vestibulum sit amet consequat enim. Pellentesque blandit hendrerit placerat. Integertis non.</p>
+                                    <h4>Why Us ?</h4>
+                                    <p>We have the largest user base in the entire world when it comes to development and Blogging</p>
                                 </div>
                             </div><!-- end row -->
 
