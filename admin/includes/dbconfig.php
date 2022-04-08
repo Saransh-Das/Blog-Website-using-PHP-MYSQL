@@ -1,6 +1,6 @@
 <?php
 
-// Define some variables
+
 $hostname = "localhost";
 $username = "root";
 $password = "";

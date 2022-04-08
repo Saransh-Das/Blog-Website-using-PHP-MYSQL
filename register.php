@@ -1,6 +1,6 @@
 <?php 
 
-include 'admin/includes/dbconfig.php'; // Include database configuration file
+include 'admin/includes/dbconfig.php'; 
 
 session_start();
 
