@@ -4,7 +4,7 @@
             <div class="container">
                 <div class="row">
                     <div class="col-lg-8 col-md-8 col-sm-12 col-xs-12">
-                        <h2><i class="fa fa-leaf bg-green"></i> Category by: Technology</h2>
+                        <h2><i class="fa fa-leaf bg-green"></i> Category by: International </h2>
                     </div><!-- end col -->
                     <div class="col-lg-4 col-md-4 col-sm-12 hidden-xs-down hidden-sm-down">
                         <ol class="breadcrumb">
@@ -38,7 +38,7 @@
                                         <h4><a href="single.php" title="">The Best Folding Phone In the market</a></h4>
                                         <p>Concept rendor of upcoming Samsung Z Fold 15 Ultra pro Max Hypercharge XYZ + MAX Special Edition is here</p>
                                         <small><a href="category.php" title=""><i class="fa fa-eye"></i> 1887</a></small>
-                                        <small><a href="single.php" title="">11 July, 2022</a></small>
+                                        <small><a href="single.php" title="">11 Mar, 2022</a></small>
                                         <small><a href="#" title="">by Saransh</a></small>
                                     </div><!-- end meta -->
                                 </div><!-- end blog-box -->
@@ -60,7 +60,7 @@
                                         <h4><a href="single.php" title="">How do you like the idea of creating a Clone of Amazon Alexa?</a></h4>
                                         <p>Aenean interdum arcu blandit, vehicula magna non, placerat elit. Mauris et pharetratortor. Suspendissea sodales urna. In at augue elit. Vivamus enim nibh, maximus ac felis nec, maximus tempor odio.</p>
                                         <small><a href="category.php" title=""><i class="fa fa-eye"></i> 4441</a></small>
-                                        <small><a href="single.php" title="">10 July, 2022</a></small>
+                                        <small><a href="single.php" title="">10 Mar, 2022</a></small>
                                         <small><a href="#" title="">by Saransh</a></small>
                                     </div><!-- end meta -->
                                 </div><!-- end blog-box -->
@@ -78,7 +78,7 @@
                                     </div><!-- end col -->
 
                                     <div class="blog-meta big-meta col-md-8">
-                                        <span class="bg-aqua"><a href="category.php" title="">Indoor</a></span>
+                                        <span class="bg-aqua"><a href="category.php" title="">Technology</a></span>
                                         <h4><a href="single.php" title="">Top 20 Ideas to involve technology with gardening plants</a></h4>
                                         <p>Aenean interdum arcu blandit, vehicula magna non, placerat elit. Mauris et pharetratortor. Suspendissea sodales urna. In at augue elit. Vivamus enim nibh, maximus ac felis nec, maximus tempor odio.</p>
                                         <small><a href="category.php" title=""><i class="fa fa-eye"></i> 1234</a></small>
@@ -112,11 +112,11 @@
                                     </div><!-- end col -->
 
                                     <div class="blog-meta big-meta col-md-8">
-                                        <span class="bg-aqua"><a href="category.php" title="">Indoor</a></span>
+                                        <span class="bg-aqua"><a href="category.php" title="">Technology</a></span>
                                         <h4><a href="single.php" title="">30 beautiful flowers you can look at made by Artificial Intellegence Which dont actually exist</a></h4>
                                         <p>Aenean interdum arcu blandit, vehicula magna non, placerat elit. Mauris et pharetratortor. Suspendissea sodales urna. In at augue elit. Vivamus enim nibh, maximus ac felis nec, maximus tempor odio.</p>
                                         <small><a href="category.php" title=""><i class="fa fa-eye"></i> 4441</a></small>
-                                        <small><a href="single.php" title="">08 July, 2022</a></small>
+                                        <small><a href="single.php" title="">08 Mar, 2022</a></small>
                                         <small><a href="#" title="">by Matilda</a></small>
                                     </div><!-- end meta -->
                                 </div><!-- end blog-box -->
@@ -134,7 +134,7 @@
                                     </div><!-- end col -->
 
                                     <div class="blog-meta big-meta col-md-8">
-                                        <span class="bg-aqua"><a href="category.php" title="">Indoor</a></span>
+                                        <span class="bg-aqua"><a href="category.php" title="">Technology</a></span>
                                         <h4><a href="single.php" title="">Enjoy your living room with small Internet of things garden biblings</a></h4>
                                         <p>Aenean interdum arcu blandit, vehicula magna non, placerat elit. Mauris et pharetratortor. Suspendissea sodales urna. In at augue elit. Vivamus enim nibh, maximus ac felis nec, maximus tempor odio.</p>
                                         <small><a href="category.php" title=""><i class="fa fa-eye"></i> 2235</a></small>
@@ -156,7 +156,7 @@
                                     </div><!-- end col -->
 
                                     <div class="blog-meta big-meta col-md-8">
-                                        <span class="bg-aqua"><a href="category.php" title="">Indoor</a></span>
+                                        <span class="bg-aqua"><a href="category.php" title="">Technology</a></span>
                                         <h4><a href="single.php" title="">Why do you prefer PHP when there are better options ?</a></h4>
                                         <p>Aenean interdum arcu blandit, vehicula magna non, placerat elit. Mauris et pharetratortor. Suspendissea sodales urna. In at augue elit. Vivamus enim nibh, maximus ac felis nec, maximus tempor odio.</p>
                                         <small><a href="category.php" title=""><i class="fa fa-eye"></i> 1567</a></small>
@@ -178,7 +178,7 @@
                                     </div><!-- end col -->
 
                                     <div class="blog-meta big-meta col-md-8">
-                                        <span class="bg-aqua"><a href="category.php" title="">Indoor</a></span>
+                                        <span class="bg-aqua"><a href="category.php" title="">Technology</a></span>
                                         <h4><a href="single.php" title="">10 special Coding Skills one must have Today</a></h4>
                                         <p>Aenean interdum arcu blandit, vehicula magna non, placerat elit. Mauris et pharetratortor. Suspendissea sodales urna. In at augue elit. Vivamus enim nibh, maximus ac felis nec, maximus tempor odio.</p>
                                         <small><a href="category.php" title=""><i class="fa fa-eye"></i> 1451</a></small>
@@ -200,7 +200,7 @@
                                     </div><!-- end col -->
 
                                     <div class="blog-meta big-meta col-md-8">
-                                        <span class="bg-aqua"><a href="category.php" title="">Indoor</a></span>
+                                        <span class="bg-aqua"><a href="category.php" title="">Technology</a></span>
                                         <h4><a href="single.php" title="">Selection of high quality chips for Drones</a></h4>
                                         <p>Aenean interdum arcu blandit, vehicula magna non, placerat elit. Mauris et pharetratortor. Suspendissea sodales urna. In at augue elit. Vivamus enim nibh, maximus ac felis nec, maximus tempor odio.</p>
                                         <small><a href="category.php" title=""><i class="fa fa-eye"></i> 4442</a></small>
