@@ -78,8 +78,8 @@ if (isset($_GET["id"])) {
                                     </div><!-- end col -->
 
                                     <div class="col-lg-10 col-md-10 col-sm-10 col-xs-12">
-                                        <h4><a href="#">Jessica</a></h4>
-                                        <p>Quisque sed tristique felis. Lorem <a href="#">visit my website</a> amet, consectetur adipiscing elit. Phasellus quis mi auctor, tincidunt nisl eget, finibus odio. Duis tempus elit quis risus congue feugiat. Thanks for stop Forest Time!</p>
+                                        <h4><a href="#">Saransh Das</a></h4>
+                                        <p>Quisque sed tristique felis. Lorem <a href="#">visit my website</a> Lorem ipsum dolor sit amet consectetur adipisicing elit. Eos eligendi voluptatibus est magnam id unde cumque tempore repellat!</p>
 
                                         <div class="topsocial">
                                             <a href="#" data-toggle="tooltip" data-placement="bottom" title="Facebook"><i class="fa fa-facebook"></i></a>

@@ -5,7 +5,7 @@
                         <div class="widget">
                             <div class="footer-text text-center">
                                 <a href="index.php"><img height=100px width=100px src="images/version/garden-footer-logo.png" alt="" class="img-fluid"></a>
-                                <p>Forest Time is a personal blog for handcrafted, cameramade photography content, fashion styles from independent creatives around the world.</p>
+                                <p> DevNation is a Great and Interactive place for Developers and coders to showcase their work by Blogging it for others to read. DevNation is By the Coders For the coders and Of the coders.</p>
                                 <div class="social">
                                     <a href="https://www.facebook.com/saransh.das.56/" target="blank" data-toggle="tooltip" data-placement="bottom" title="Facebook"><i class="fa fa-facebook"></i></a>              
                                     <a href="https://twitter.com/MagicianSaransh" target="blank" data-toggle="tooltip" data-placement="bottom" title="Twitter"><i class="fa fa-twitter"></i></a>

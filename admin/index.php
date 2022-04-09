@@ -302,12 +302,9 @@
                         <img class="img-fluid px-3 px-sm-4 mt-3 mb-4" style="width: 25rem;"
                             src="img/undraw_posting_photo.svg" alt="">
                     </div>
-                    <p>Add some quality, svg illustrations to your project courtesy of <a
-                            target="_blank" rel="nofollow" href="https://undraw.co/">unDraw</a>, a
-                        constantly updated collection of beautiful svg images that you can use
-                        completely free and without attribution!</p>
-                    <a target="_blank" rel="nofollow" href="https://undraw.co/">Browse Illustrations on
-                        unDraw &rarr;</a>
+                    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Corrupti, eius. <a
+                            target="_blank" rel="nofollow" href="index.php">Saransh Das</a>Lorem ipsum dolor sit amet consectetur adipisicing elit. Laboriosam eveniet sed itaque libero adipisci velit minima magni facere dolorum dolor?</p>
+                    <a target="_blank" rel="nofollow" href="index.php">Lorem ipsum dolor sit amet consectetur. &rarr;</a>
                 </div>
             </div>
 
@@ -317,11 +314,8 @@
                     <h6 class="m-0 font-weight-bold text-primary">Development Approach</h6>
                 </div>
                 <div class="card-body">
-                    <p>SB Admin 2 makes extensive use of Bootstrap 4 utility classes in order to reduce
-                        CSS bloat and poor page performance. Custom CSS classes are used to create
-                        custom components and custom utility classes.</p>
-                    <p class="mb-0">Before working with this theme, you should become familiar with the
-                        Bootstrap framework, especially the utility classes.</p>
+                    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Neque illo ullam ut omnis provident nostrum maiores voluptatum totam porro sed.</p>
+                    <p class="mb-0">Lorem ipsum dolor sit amet consectetur adipisicing elit. Quo reprehenderit, culpa cupiditate earum illo tempore!</p>
                 </div>
             </div>
 
